@@ -24,7 +24,7 @@ To run this project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/your-username/flutter-multi-form-validation.git](https://github.com/nellyiya/Input-Validation_Assignment.git)   
+   git clone https://github.com/nellyiya/Input-Validation_Assignment.git   
    ```
 
 2. **Navigate into the project directory**:
