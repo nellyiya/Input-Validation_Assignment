@@ -30,7 +30,7 @@ To run this project on your local machine, follow these steps:
 2. **Navigate into the project directory**:
 
    ```bash
-   cd flutter-multi-form-validation
+   cd flutter-input-validation
    ```
 
 3. **Install dependencies**:
