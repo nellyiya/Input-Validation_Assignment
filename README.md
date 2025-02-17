@@ -66,7 +66,7 @@ To run this project on your local machine, follow these steps:
 
 **2nd Screen: Display Entered Data**
 
-![Entered Data](https://via.placeholder.com/600x400.png?text=Entered+Data)
+![Screenshot 2025-02-17 224533](https://github.com/user-attachments/assets/78a770d0-470a-46b3-b454-77209cfe5b67)
 
 ---
 
