@@ -64,7 +64,7 @@ To run this project on your local machine, follow these steps:
 )
 ![Screenshot 2025-02-17 224519](https://github.com/user-attachments/assets/9fc4a7cf-67f0-49be-aa21-65c52509f29b)
 
-**2nd Screen: Display Entered Data**
+**2nd Screen: has GO back button  **
 
 ![Screenshot 2025-02-17 224533](https://github.com/user-attachments/assets/78a770d0-470a-46b3-b454-77209cfe5b67)
 
