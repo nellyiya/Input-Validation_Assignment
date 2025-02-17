@@ -61,7 +61,8 @@ To run this project on your local machine, follow these steps:
 
 
 
-![Input Form](https://via.placeholder.com/600x400.png?text=Input+Form)
+)
+![Screenshot 2025-02-17 224519](https://github.com/user-attachments/assets/9fc4a7cf-67f0-49be-aa21-65c52509f29b)
 
 **2nd Screen: Display Entered Data**
 
